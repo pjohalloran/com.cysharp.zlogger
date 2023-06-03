@@ -5,6 +5,9 @@
   "unity": "2021.3",
   "description": "Zero Allocation Text/Structured Logger for .NET Core and Unity, built on top of a Microsoft.Extensions.Logging.",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "com.cysharp.plugins": "ssh://git@github.com/pjohalloran/com.cysharp.plugins.git#0.0.1",
+    "com.cysharp.zstring": "ssh://git@github.com/pjohalloran/com.cysharp.zstring.git#2.5.0"
+  },
   "relatedPackages": {}
 }
